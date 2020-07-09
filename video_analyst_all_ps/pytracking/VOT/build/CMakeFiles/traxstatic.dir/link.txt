@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtraxstatic.a  CMakeFiles/traxstatic.dir/src/trax.c.o CMakeFiles/traxstatic.dir/src/region.c.o CMakeFiles/traxstatic.dir/src/strmap.c.o CMakeFiles/traxstatic.dir/src/message.c.o CMakeFiles/traxstatic.dir/src/base64.c.o CMakeFiles/traxstatic.dir/src/traxpp.cpp.o CMakeFiles/traxstatic.dir/src/debug.c.o
+/usr/bin/ranlib libtraxstatic.a

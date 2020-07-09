@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -pthread -Wall -Wno-long-long -pedantic  -shared -Wl,-soname,libtrax.so.2 -o libtrax.so.3.0.2 CMakeFiles/trax.dir/src/trax.c.o CMakeFiles/trax.dir/src/region.c.o CMakeFiles/trax.dir/src/strmap.c.o CMakeFiles/trax.dir/src/message.c.o CMakeFiles/trax.dir/src/base64.c.o CMakeFiles/trax.dir/src/traxpp.cpp.o CMakeFiles/trax.dir/src/debug.c.o -lm 

@@ -1,0 +1,10 @@
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/install/strip.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/install/local.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/install.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/list_install_components.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/traxstatic.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/trax.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/package.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/package_source.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/edit_cache.dir
+/home/owl/PycharmProjects/pytracking-master/pytracking/VOT/build/CMakeFiles/rebuild_cache.dir

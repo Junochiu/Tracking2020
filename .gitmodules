@@ -1,0 +1,3 @@
+[submodule "video_analyst_all_ps/PreciseRoIPooling"]
+	path = video_analyst_all_ps/PreciseRoIPooling
+	url = https://github.com/vacancy/PreciseRoIPooling.git
